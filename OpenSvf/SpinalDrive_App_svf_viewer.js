@@ -12,10 +12,10 @@ class SpinalDrive_App_FileExplorer_svf_viewer extends SpinalDrive_App {
   constructor() {
     super(
       "OpenSvfFileExplorer",
-      "Open with BIM Viewer",
+      "Open with Op. Center Viewer",
       10,
       "location_city",
-      "Open the BIM Viewer"
+      "Open the Op. Center Viewer"
     );
     this.order_priority = 5;
   }
