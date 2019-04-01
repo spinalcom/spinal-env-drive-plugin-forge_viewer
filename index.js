@@ -31,8 +31,14 @@ function concat_lib(lib) {
   }
 }
 concat_lib(require("./OpenSvf/SpinalDrive_App_svf_viewer"));
+concat_lib(require("./Maintainer/SpinalDrive_App_maintainer_center"));
 
 window.spinalDrive_Env.add_applications(
   "FileExplorer",
   new module.exports.FileExplorerSvfViewer()
+);
+
+window.spinalDrive_Env.add_applications(
+  "FileExplorer",
+  new module.exports.FileExplorerMaintainerViewer()
 );
