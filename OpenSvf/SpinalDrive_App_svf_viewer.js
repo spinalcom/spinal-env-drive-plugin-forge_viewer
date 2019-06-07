@@ -12,10 +12,10 @@ class SpinalDrive_App_FileExplorer_svf_viewer extends SpinalDrive_App {
   constructor() {
     super(
       "OpenSvfFileExplorer",
-      "Open with Op. Center Viewer",
+      "Integration Center - BIC",
       10,
       "location_city",
-      "Open the Op. Center Viewer"
+      "Integration Center - BIC"
     );
     this.order_priority = 5;
   }
