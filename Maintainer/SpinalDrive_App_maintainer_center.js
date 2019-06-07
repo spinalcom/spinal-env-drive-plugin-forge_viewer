@@ -12,10 +12,10 @@ class SpinalDrive_App_FileExplorer_maintainer_center extends SpinalDrive_App {
   constructor() {
     super(
       "OpenMaintainerFileExplorer",
-      "Open with Maintainer Center",
+      "Integration Center - BIC",
       10,
       "location_city",
-      "Open the Maintainer Center"
+      "Operation Center - BOC"
     );
     this.order_priority = 5;
   }
