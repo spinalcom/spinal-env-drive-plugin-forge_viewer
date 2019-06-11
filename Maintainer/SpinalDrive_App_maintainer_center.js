@@ -12,7 +12,7 @@ class SpinalDrive_App_FileExplorer_maintainer_center extends SpinalDrive_App {
   constructor() {
     super(
       "OpenMaintainerFileExplorer",
-      "Integration Center - BIC",
+      "Operation Center - BOC",
       10,
       "location_city",
       "Operation Center - BOC"
