@@ -12,7 +12,7 @@ class SpinalDrive_App_FileExplorer_svf_viewer extends SpinalDrive_App {
   constructor() {
     super(
       "OpenSvfFileExplorer",
-      "ST STUDIO",
+      "Open ST STUDIO",
       10,
       "location_city",
       "ST STUDIO"

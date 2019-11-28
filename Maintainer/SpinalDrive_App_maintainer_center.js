@@ -12,8 +12,8 @@ class SpinalDrive_App_FileExplorer_maintainer_center extends SpinalDrive_App {
   constructor() {
     super(
       "OpenMaintainerFileExplorer",
-      "ST TICKET",
-      10,
+      "Open ST TICKET",
+      "10",
       "receipt",
       "ST TICKET"
     );
