@@ -14,7 +14,7 @@ class SpinalDrive_App_FileExplorer_maintainer_center extends SpinalDrive_App {
       "OpenMaintainerFileExplorer",
       "ST TICKET",
       10,
-      "confirmation_number",
+      "receipt",
       "ST TICKET"
     );
     this.order_priority = 5;
