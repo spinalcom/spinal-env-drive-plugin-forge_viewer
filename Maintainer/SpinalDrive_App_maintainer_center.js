@@ -12,10 +12,10 @@ class SpinalDrive_App_FileExplorer_maintainer_center extends SpinalDrive_App {
   constructor() {
     super(
       "OpenMaintainerFileExplorer",
-      "Operation Center - BOC",
+      "ST TICKET",
       10,
-      "location_city",
-      "Operation Center - BOC"
+      "confirmation_num",
+      "ST TICKET"
     );
     this.order_priority = 5;
   }
@@ -63,4 +63,5 @@ class SpinalDrive_App_FileExplorer_maintainer_center extends SpinalDrive_App {
   }
 }
 
-module.exports.FileExplorerMaintainerViewer = SpinalDrive_App_FileExplorer_maintainer_center;
+module.exports.FileExplorerMaintainerViewer =
+  SpinalDrive_App_FileExplorer_maintainer_center;
