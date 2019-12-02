@@ -1,6 +1,6 @@
 {
   "name": "spinal-env-drive-plugin-forge_viewer",
-  "version": "v1.0.3",
+  "version": "v1.0.4",
   "description": "forge open viewer plugin in spinal-browser-drive",
   "main": "index.js",
   "dependencies": {
