@@ -15,7 +15,7 @@ class SpinalDrive_App_FileExplorer_svf_viewer extends SpinalDrive_App {
       "ST Studio",
       "10",
       "location_city",
-      "ST STUDIO"
+      "ST Studio"
     );
     this.order_priority = 5;
   }
